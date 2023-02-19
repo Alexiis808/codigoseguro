@@ -8,7 +8,7 @@
   <link rel="stylesheet" type="text/css" href="css/login.css" />
   <script src="https://kit.fontawesome.com/f97149e1de.js" crossorigin="anonymous"></script>
   <script src="js/login.js"></script>
-  <title>El Tuning Nunca Muere | Login</title>
+  <title>El Tuning Nunca Mue | Login</title>
 </head>
 
 <body>
